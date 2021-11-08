@@ -10,18 +10,5 @@
     "nav content";
 }
 
-.header{
-    grid-area:header;
-    background-color: red;
-}
-.header img {
-    width: 80px;
-}
-.nav{
-    grid-area:nav;
-    background-color: aqua;
-}
-.content{
-    background-color: gold;
-    grid-area:content;
-}
+
+

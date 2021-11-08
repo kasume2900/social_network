@@ -1,0 +1,4 @@
+.content{
+    background: linear-gradient(45deg, rgb(172, 136, 163), rgb(118, 130, 65), rgb(57, 31, 151));
+    grid-area:content;
+}

@@ -1,0 +1,7 @@
+.header{
+    grid-area:header;
+    background: linear-gradient(45deg, rgb(37, 45, 43), rgb(78, 36, 128), rgb(193, 10, 139));
+}
+.header img {
+    width: 80px;
+}
